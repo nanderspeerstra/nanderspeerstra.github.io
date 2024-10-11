@@ -4,5 +4,11 @@ theme: just-the-docs
 
 url: https://nanderspeerstra.github.io
 
+include:
+  - _photos
+
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  LinkedIn: https://nl.linkedin.com/in/nanderspeerstra
+  Instagram: https://www.instagram.com/nanderspeerstra/
+  Strava: https://www.strava.com/athletes/16614700
+  StackOverflow: https://stackoverflow.com/users/5488275/nander-speerstra
